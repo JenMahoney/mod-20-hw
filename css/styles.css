@@ -1,0 +1,78 @@
+.custom-navbar {
+    background-color: #202020; 
+}
+
+.bg-custom-gray {
+    background-color: #F3F3F3;
+}
+
+.bg-custom-blue {
+    background-color: #035E7B;
+}
+
+.custom-navbar .navbar-nav .nav-link {
+    color: #fff; 
+    padding: 15px;
+}
+
+.custom-navbar .navbar-nav .nav-link:hover {
+    color: #44CECC; 
+}
+
+.navbar-nav {
+    margin-left: auto;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.heroSection {
+    margin: 30px 80px;
+    text-align: center;
+}
+
+.containerIntro {
+    margin: 30px 50px;
+
+}
+
+.sectionIntro {
+    border: none;
+    text-align: center;
+}
+
+.card-quote {
+    background-color: #F3F3F3;
+    padding: 30px 80px;
+    text-align: center;
+    font-style: italic;
+}
+
+.cardCentered {
+    text-align: center;
+    background-color: #035E7B;
+    color: white;
+    padding: 30px 80px;
+}
+
+.cardLeft {
+    background-color: #035E7B;
+    color: white;
+    padding: 30px 80px;
+}
+
+.card-list {
+    padding:  0 50px;
+}
+
+.strikethru {
+    text-decoration: line-through;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.card-textItal {
+    font-style: italic;
+}
+
